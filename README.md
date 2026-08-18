@@ -70,9 +70,9 @@ Currently looking for a **mobile development role** where product thinking and h
 </p>
 
 <p align="center">
-  <img src="/assets/hemy-1.png" width="32%" alt="Hemy learning games with XP, levels and streaks">
-  <img src="/assets/hemy-2.png" width="32%" alt="Hemy group sessions filtered by CEFR level">
-  <img src="/assets/hemy-3.png" width="32%" alt="Hemy student home with progress stats and upcoming lessons">
+  <img src="assets/hemy-1.png" width="32%" alt="Hemy learning games with XP, levels and streaks">
+  <img src="assets/hemy-2.png" width="32%" alt="Hemy group sessions filtered by CEFR level">
+  <img src="assets/hemy-3.png" width="32%" alt="Hemy student home with progress stats and upcoming lessons">
 </p>
 
 - Gamified learning system: XP, levels, streaks and word packs, with four game modes (quiz, matching, flashcards, typing)
