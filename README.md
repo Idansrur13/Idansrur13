@@ -57,7 +57,7 @@ Currently looking for a **mobile development role** where product thinking and h
 <h2 align="center">
     <!-- <a href="https://hemy-hebrew.com/en/home"><img src="https://hemy-hebrew.com/svg/logo-hemy.png" alt="Website"/></a> -->
 
-  <img src="https://www.hemy-hebrew.com/svg/logo-hemy.png" height="48" alt="Hemy Hebrew"><br>
+  <img src="https://hemy-hebrew.com/svg/logo-hemy.png" height="48" alt="Hemy Hebrew"><br>
   Hemy Hebrew
 </h2>
 
@@ -67,6 +67,7 @@ Currently looking for a **mobile development role** where product thinking and h
 </p>
 
 <p align="center">
+    <a href="https://hemy-hebrew"><img src="https://img.shields.io/badge/Website-webas.online-0A84FF?style=flat-square" alt="Website"></a>
   <a href="https://apps.apple.com/il/app/webas/id6771282839"><img src="https://img.shields.io/badge/App_Store-Download-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store"></a>
   <a href="GOOGLE_PLAY_LINK"><img src="https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"></a>
 </p>
