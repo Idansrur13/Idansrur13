@@ -65,8 +65,13 @@ Currently looking for a **mobile development role** where product thinking and h
 </p>
 
 <p align="center">
-  <a href="https://hemy-hebrew.com/en/home"><img src="https://img.shields.io/badge/Website-hemy--hebrew.com-34C759?style=flat-square" alt="Website"></a>
-  <img src="https://img.shields.io/badge/Status-Live_in_production-34C759?style=flat-square" alt="Live">
+  <a href="https://hemy-hebrew.com/en/home"><img src="https://hemy-hebrew.com/_next/image?url=%2Fsvg%2Flogo-hemy.png&w=256&q=75&dpl=dpl_HCuM8XZnsjd9kTT3a7JWdtHfaHtR" alt="Website"></a>
+
+    <a href="APP_STORE_LINK"><img src="https://apps.apple.com/il/app/hemy/id6799389684" alt="App Store"></a>
+  <a href="GOOGLE_PLAY_LINK"><img src="" alt="Google Play"></a>
+</p>
+<p align="center">
+
 </p>
 
 <p align="center">
